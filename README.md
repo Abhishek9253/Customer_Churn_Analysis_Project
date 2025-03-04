@@ -15,14 +15,14 @@ The project will utilize SQL to query and extract relevant customer data, focusi
 - Generate actionable insights and key performance indicators (KPIs) related to churn, such as churn rate by customer segment, churn by service type, churn by contract type, and churn by region.
 - Present recommendations to telecom companies on how to reduce churn, such as improving customer service, offering flexible contracts, or enhancing product offerings based on the data insights.
 
-  ## DataSet Used:
-  https://github.com/Abhishek9253/Customer_Churn_Analysis_Project/blob/main/Customer_Data.csv
+## DataSet Used:
+https://github.com/Abhishek9253/Customer_Churn_Analysis_Project/blob/main/Customer_Data.csv
 
-  ## Dashboard:
-  ![Dashboard](https://github.com/user-attachments/assets/fe60e1ba-ff8e-40bb-bbc8-277784b8b4fd)
+## Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/fe60e1ba-ff8e-40bb-bbc8-277784b8b4fd)
 
-  ## Insights:
-  ### 1. Gender-Based Churn Insights
+## Insights:
+### 1. Gender-Based Churn Insights
 - **Insight**: A significant 64% of churned customers are female, which suggests that gender could be a contributing factor in customer attrition.
 - **Actionable Strategy**: Tailor retention strategies with a focus on addressing the unique needs of female customers. This could involve personalized offers, better customer support, or targeted marketing campaigns designed to appeal to women, potentially including family plans, convenience features, or customer care services that might resonate more with this segment.
 
